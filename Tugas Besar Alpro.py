@@ -6,7 +6,7 @@ import random
 window=Tk()
 window.title("Hangman")
 
-word_list = ["RAFAY", "LION", "PANNDA", "TIGER", "DOG", "CAT", "RABIT", "MOUSE"]
+word_list = ["RAFAY", "LION", "PANNDA", "TIGER", "DOG", "CAT", "RABIT", "MOUSE",]
 
 photos = [PhotoImage(file="images/hang0.png"), PhotoImage(file="images/hang1.png"), PhotoImage(file="images/hang2.png"), PhotoImage(file="images/hang3.png"),
           PhotoImage(file="images/hang4.png"), PhotoImage(file="images/hang5.png"), PhotoImage(file="images/hang6.png"), PhotoImage(file="images/hang7.png"),
